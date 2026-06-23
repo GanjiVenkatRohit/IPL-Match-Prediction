@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Model files
+*.pkl
+
+# Logs
+*.log
